@@ -1,0 +1,10 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Análisis Electoral CABA 2023"
+  navbar:
+    left:
+      - href: tutorial_dine.qmd
+        text: Análisis 
